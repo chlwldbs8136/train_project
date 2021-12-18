@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+body {
+    background-color: rgb(178, 216, 231); 
+    color: black;
+    font-family: 'Jua', sans-serif;
+}
+
+#change {
+    margin: 0 auto;
+    text-align: center;
+}
+
+button {
+    font-family: 'Jua', sans-serif;
+}
+
+.titles {
+    width: 150px; height: 40px;
+    margin: 10px auto;
+    line-height: 40px;
+    background-color: rgb(255, 247, 238);
+    border-radius: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+h3 {
+    text-align: center;
+    margin: 30px;
+    color : rgb(6, 7, 7);
+}
+
+#price {
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+table {
+    margin: 0 auto;
+    padding: 15px;
+
+    border: 1px solid rgb(37, 37, 109);
+    border-radius: 20px;
+    width: 270px;
+
+    text-align: center;
+    color: rgb(58, 58, 58);
+}
+
+#th {
+    height: 50px;
+    line-height: 30px;
+    color: black;
+    font-size: large;
+}
+
+#reservation {
+    margin: 0 auto;
+    text-align: center;
+}
+
+select {
+    border-radius: 10px;
+    padding: 3px;
+}
+
+button {
+    cursor: pointer;
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+    position: relative;
+    top: 6px;
+}

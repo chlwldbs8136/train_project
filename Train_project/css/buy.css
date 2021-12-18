@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+body{
+    background-color: rgb(178, 216, 231);
+    font-family: 'Jua', sans-serif;
+}
+
+.titles {
+    width: 180px; height: 40px;
+    margin: 50px auto 10px auto;
+
+    background-color: rgb(255, 247, 238);
+    border-radius: 20px;
+    
+    text-align: center;
+    line-height: 40px;
+}
+
+#trainTable {
+    margin: 0 auto;
+    padding: 15px;
+
+    border: 1px solid rgb(37, 37, 109);
+    border-radius: 20px;
+    width: 300px;
+
+    text-align: center;
+    color: rgb(58, 58, 58);
+}
+
+#select {
+    margin: 0 auto;
+    padding: 15px;
+
+    border: 1px solid rgb(37, 37, 109);
+    border-radius: 20px;
+    width: 270px;
+
+    text-align: center;
+    color: rgb(58, 58, 58);
+}
+
+select{
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+button {
+    margin: 5px;
+    padding: 3px 7px;
+
+    cursor: pointer;
+    border: 1px solid whitesmoke;
+    border-radius: 20px;
+}
+
+#th {
+    height: 50px;
+    line-height: 30px;
+    color: black;
+}
